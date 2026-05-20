@@ -1,3 +1,6 @@
-body {
-
+h1{color:#0000ff; font-size:30px; text-shadow: 0 0 10px black}
+h2{font-size:35px;}
+img:hover {
+  opacity:0
+  background-image: url(https://www.w3schools.com/w3images/fjords.jpg);
 }
